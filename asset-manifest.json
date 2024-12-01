@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Faq-Accordion/static/css/main.632f7de4.css",
+    "main.js": "/Faq-Accordion/static/js/main.fc417670.js",
+    "index.html": "/Faq-Accordion/index.html",
+    "main.632f7de4.css.map": "/Faq-Accordion/static/css/main.632f7de4.css.map",
+    "main.fc417670.js.map": "/Faq-Accordion/static/js/main.fc417670.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.632f7de4.css",
+    "static/js/main.fc417670.js"
+  ]
+}
