@@ -1,0 +1,41 @@
+.App {
+  /* font-family: sans-serif;
+  text-align: center; */
+}
+.accordions {
+  background-color: rgb(117, 117, 240);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+  padding: 10px 40px;
+  border-radius: 15px;
+}
+.acc {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  background-color: white;
+  padding: 15px;
+  color: black;
+}
+.title {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  width: 35px;
+  align-self: center;
+  text-align: center;
+  padding: 5px 10px;
+  color: blue;
+  border-color: blue;
+  border-radius: 7px;
+  background-color: rgba(166, 166, 243, 0.326);
+  font-size: 20px;
+}
+.hidden {
+  display: none;
+}
