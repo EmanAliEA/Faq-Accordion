@@ -1,1 +1,1 @@
-https://emanaliea.github.io/Faq-Accordion/
+https://emanaliea.github.io/Faq-Accordion-React/
